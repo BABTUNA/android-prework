@@ -1,4 +1,4 @@
-## Ben's App (project0.1 - Hello from Ben)
+## Ben's Welcome App (project0.1 - Hello from Ben)
 
 ### App Description
 
