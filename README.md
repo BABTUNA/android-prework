@@ -9,7 +9,7 @@ contains basic styles and features. The application contains a welcome text, a c
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/2BTbtYDcx4.gif" width=200><br>
+<img src="http://g.recordit.co/2BTbtYDcx4.gif" width=200>
 <img src="http://g.recordit.co/RvtMB3hVJT.gif" width=200><br>
 
 
