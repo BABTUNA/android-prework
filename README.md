@@ -1,11 +1,9 @@
-## NAME_OF_YOUR_APP_HERE
-
-Ben's App (project0.1 - Hello from Ben)
+## Ben's App (project0.1 - Hello from Ben)
 
 ### App Description
 
-The following application is a simple introductory application that
-contains basic styles and features. The application contains a welcome text, a change welcome text color button, a change background color button, and a change welcome text features.
+The following application is a simple introductory android app that
+contains basic styles and features. The application contains welcome text, a custom background, a change welcome text color button, a change background color button, and a change welcome text feature.
 
 ### App Walk-though
 
